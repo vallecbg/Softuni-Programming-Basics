@@ -1,4 +1,4 @@
-.<p align="center"> Software Technologies - март 2018 <p>
+.<p align="center"> Programming Basics <p>
 <a href="https://softuni.bg/trainings/2275/programming-basics-with-csharp-february-2019/">  ![SoftUni logo][logo] <a/>
 
 [logo]: http://innovationstarterbox.bg/wp-content/uploads/2016/05/Softuni_logo_trasparent.png "Logo Title Text 2"
